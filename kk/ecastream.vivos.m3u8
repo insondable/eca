@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-1-615.png" group-title="Eurosport" tvg-name="EUROSPORT 1 FHD --> NEW ERA",EUROSPORT 1 FHD --> NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909&pid=3
 #EXTINF:-1 tvg-id="EUROSPORT 1 FHD --> NEW ERA - 705d" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-1-615.png" group-title="Eurosport" tvg-name="EUROSPORT 1 FHD --> NEW ERA - 705d",EUROSPORT 1 FHD --> NEW ERA - 705d
 http://172.18.0.10:6878/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d&pid=4
 #EXTINF:-1 tvg-id="EUROSPORT 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-1-615.png" group-title="Eurosport" tvg-name="EUROSPORT 1 FHD --> NEW ERA VI",EUROSPORT 1 FHD --> NEW ERA VI
@@ -9,12 +11,16 @@ http://172.18.0.10:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a6
 http://172.18.0.10:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3&pid=7
 #EXTINF:-1 tvg-id="Eurosport 2 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-2-616.png" group-title="Eurosport" tvg-name="Eurosport 2 1080",Eurosport 2 1080
 http://172.18.0.10:6878/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551&pid=8
+#EXTINF:-1 tvg-id="Eurosport 2 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-2-616.png" group-title="Eurosport" tvg-name="Eurosport 2 720",Eurosport 2 720
+http://172.18.0.10:6878/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f&pid=9
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-2-616.png" group-title="Eurosport" tvg-name="EUROSPORT 2 FHD --> NEW ERA",EUROSPORT 2 FHD --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc&pid=10
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD --> NEW ERA - 7031" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-2-616.png" group-title="Eurosport" tvg-name="EUROSPORT 2 FHD --> NEW ERA - 7031",EUROSPORT 2 FHD --> NEW ERA - 7031
+http://172.18.0.10:6878/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031&pid=11
 #EXTINF:-1 tvg-id="EUROSPORT 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-es-eurosport-2-616.png" group-title="Eurosport" tvg-name="EUROSPORT 2 FHD --> NEW ERA VI",EUROSPORT 2 FHD --> NEW ERA VI
 http://172.18.0.10:6878/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf&pid=13
-#EXTINF:-1 tvg-id="Eurosport 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-eurosport.png" group-title="Eurosport" tvg-name="Eurosport 720",Eurosport 720
-http://172.18.0.10:6878/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a&pid=15
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-02.png" group-title="M.L. Campeones" tvg-name="LIGA DE CAMPEONES 2 FHD --> NEW ERA VI",LIGA DE CAMPEONES 2 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&pid=21
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-03.png" group-title="M.L. Campeones" tvg-name="LIGA DE CAMPEONES 3 FHD --> NEW ERA VI",LIGA DE CAMPEONES 3 FHD --> NEW ERA VI
 http://172.18.0.10:6878/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259&pid=25
 #EXTINF:-1 tvg-id="MOVISTAR PLUS 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+" tvg-name="MOVISTAR PLUS 2 FHD --> NEW ERA",MOVISTAR PLUS 2 FHD --> NEW ERA
@@ -29,10 +35,14 @@ http://172.18.0.10:6878/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b933
 http://172.18.0.10:6878/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464&pid=49
 #EXTINF:-1 tvg-id="Vamos 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-vamos.png" group-title="Movistar Plus+" tvg-name="Vamos 1080",Vamos 1080
 http://172.18.0.10:6878/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b&pid=50
+#EXTINF:-1 tvg-id="Vamos 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-vamos.png" group-title="Movistar Plus+" tvg-name="Vamos 720",Vamos 720
+http://172.18.0.10:6878/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785&pid=51
 #EXTINF:-1 tvg-id="NBA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-nba-tv.png" group-title="NBA" tvg-name="NBA",NBA
 http://172.18.0.10:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95&pid=52
 #EXTINF:-1 tvg-id="NBA TV --> NEW ERA - 8073" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-nba-tv.png" group-title="NBA" tvg-name="NBA TV --> NEW ERA - 8073",NBA TV --> NEW ERA - 8073
 http://172.18.0.10:6878/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073&pid=55
+#EXTINF:-1 tvg-id="Dazn 1" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN" tvg-name="Dazn 1",Dazn 1
+http://172.18.0.10:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=56
 #EXTINF:-1 tvg-id="DAZN EVENTOS 1 --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN" tvg-name="DAZN EVENTOS 1 --> NEW ERA",DAZN EVENTOS 1 --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5&pid=58
 #EXTINF:-1 tvg-id="DAZN EVENTOS 2 --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN" tvg-name="DAZN EVENTOS 2 --> NEW ERA",DAZN EVENTOS 2 --> NEW ERA
@@ -65,8 +75,6 @@ http://172.18.0.10:6878/ace/getstream?id=688e785893b50acc1d00cb37f15bfc42e72f5ae
 http://172.18.0.10:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=81
 #EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA - 3fa9" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-1-es-2510.png" group-title="DAZN" tvg-name="DAZN 1 FHD --> NEW ERA - 3fa9",DAZN 1 FHD --> NEW ERA - 3fa9
 http://172.18.0.10:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=83
-#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA - 9928" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-1-es-2510.png" group-title="DAZN" tvg-name="DAZN 1 FHD --> NEW ERA - 9928",DAZN 1 FHD --> NEW ERA - 9928
-http://172.18.0.10:6878/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928&pid=84
 #EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-1-es-2510.png" group-title="DAZN" tvg-name="DAZN 1 FHD --> NEW ERA VI",DAZN 1 FHD --> NEW ERA VI
 http://172.18.0.10:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=85
 #EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI - 94b7" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-1-es-2510.png" group-title="DAZN" tvg-name="DAZN 1 FHD --> NEW ERA VI - 94b7",DAZN 1 FHD --> NEW ERA VI - 94b7
@@ -77,132 +85,138 @@ http://172.18.0.10:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff51
 http://172.18.0.10:6878/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c&pid=90
 #EXTINF:-1 tvg-id="DAZN 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-2-es-2511.png" group-title="DAZN" tvg-name="DAZN 2 FHD --> NEW ERA",DAZN 2 FHD --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35&pid=91
+#EXTINF:-1 tvg-id="DAZN 2 FHD --> NEW ERA - a97d" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-2-es-2511.png" group-title="DAZN" tvg-name="DAZN 2 FHD --> NEW ERA - a97d",DAZN 2 FHD --> NEW ERA - a97d
+http://172.18.0.10:6878/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d&pid=92
 #EXTINF:-1 tvg-id="DAZN 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-2-es-2511.png" group-title="DAZN" tvg-name="DAZN 2 FHD --> NEW ERA VI",DAZN 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37&pid=93
+http://172.18.0.10:6878/ace/getstream?id=43004e955731cd3afcc34d24e5178d4b427bff37&pid=94
 #EXTINF:-1 tvg-id="DAZN 3 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-3-es-2524.png" group-title="DAZN" tvg-name="DAZN 3 --> NEW LOOP",DAZN 3 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=94
+http://172.18.0.10:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9&pid=95
 #EXTINF:-1 tvg-id="DAZN 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-3-es-2524.png" group-title="DAZN" tvg-name="DAZN 3 FHD --> NEW ERA",DAZN 3 FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1&pid=95
+http://172.18.0.10:6878/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1&pid=96
 #EXTINF:-1 tvg-id="DAZN 3 FHD --> NEW ERA - 3b28" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-3-es-2524.png" group-title="DAZN" tvg-name="DAZN 3 FHD --> NEW ERA - 3b28",DAZN 3 FHD --> NEW ERA - 3b28
-http://172.18.0.10:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28&pid=96
+http://172.18.0.10:6878/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313b28&pid=97
 #EXTINF:-1 tvg-id="DAZN 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-3-es-2524.png" group-title="DAZN" tvg-name="DAZN 3 FHD --> NEW ERA VI",DAZN 3 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460&pid=98
+http://172.18.0.10:6878/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460&pid=99
 #EXTINF:-1 tvg-id="DAZN 4 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-4-es-2525.png" group-title="DAZN" tvg-name="DAZN 4 --> NEW LOOP",DAZN 4 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=99
+http://172.18.0.10:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&pid=100
+#EXTINF:-1 tvg-id="DAZN 4 FHD --> NEW ERA - 0af5" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-4-es-2525.png" group-title="DAZN" tvg-name="DAZN 4 FHD --> NEW ERA - 0af5",DAZN 4 FHD --> NEW ERA - 0af5
+http://172.18.0.10:6878/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5&pid=102
 #EXTINF:-1 tvg-id="DAZN 4 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-4-es-2525.png" group-title="DAZN" tvg-name="DAZN 4 FHD --> NEW ERA VI",DAZN 4 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693&pid=102
+http://172.18.0.10:6878/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693&pid=104
 #EXTINF:-1 tvg-id="DAZN F1 1080  (FA3rmula 1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 1080  (FA3rmula 1)",DAZN F1 1080  (FA3rmula 1)
-http://172.18.0.10:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&pid=103
+http://172.18.0.10:6878/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&pid=105
 #EXTINF:-1 tvg-id="DAZN F1 1080 (FA3rmula 1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 1080 (FA3rmula 1)",DAZN F1 1080 (FA3rmula 1)
-http://172.18.0.10:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&pid=104
+http://172.18.0.10:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&pid=106
 #EXTINF:-1 tvg-id="DAZN F1 1080 (Formula 1) ELCANO" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 1080 (Formula 1) ELCANO",DAZN F1 1080 (Formula 1) ELCANO
-http://172.18.0.10:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&pid=105
+http://172.18.0.10:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&pid=107
 #EXTINF:-1 tvg-id="DAZN F1 720 (Formula 1) ELCANO" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 720 (Formula 1) ELCANO",DAZN F1 720 (Formula 1) ELCANO
-http://172.18.0.10:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727&pid=107
+http://172.18.0.10:6878/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727&pid=108
 #EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 FHD --> NEW ERA",DAZN F1 FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=111
+http://172.18.0.10:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=112
 #EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 FHD --> NEW ERA VI",DAZN F1 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&pid=118
+http://172.18.0.10:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&pid=117
 #EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI - c32a" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1-366.png" group-title="DAZN F1" tvg-name="DAZN F1 FHD --> NEW ERA VI - c32a",DAZN F1 FHD --> NEW ERA VI - c32a
-http://172.18.0.10:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&pid=119
+http://172.18.0.10:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&pid=118
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-laliga-1.png" group-title="DAZN LaLiga" tvg-name="DAZN LaLiga 1080 MultiAudio",DAZN LaLiga 1080 MultiAudio
-http://172.18.0.10:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=122
+http://172.18.0.10:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=120
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-laliga-2.png" group-title="DAZN LaLiga" tvg-name="DAZN LaLiga 2 1080 MultiAudio",DAZN LaLiga 2 1080 MultiAudio
-http://172.18.0.10:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&pid=125
+http://172.18.0.10:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&pid=123
 #EXTINF:-1 tvg-id="ESPN 2 [BE] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-espn.png" group-title="ESPN" tvg-name="ESPN 2 [BE] --> NEW LOOP",ESPN 2 [BE] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63&pid=127
+http://172.18.0.10:6878/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63&pid=125
 #EXTINF:-1 tvg-id="ESPN 4 [BE] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-espn.png" group-title="ESPN" tvg-name="ESPN 4 [BE] --> NEW LOOP",ESPN 4 [BE] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a&pid=128
+http://172.18.0.10:6878/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a&pid=126
 #EXTINF:-1 tvg-id="ESPN [BE] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-espn.png" group-title="ESPN" tvg-name="ESPN [BE] --> NEW LOOP",ESPN [BE] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab&pid=129
+http://172.18.0.10:6878/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab&pid=127
 #EXTINF:-1 tvg-id="ESPN HD [US] HD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-espn.png" group-title="ESPN" tvg-name="ESPN HD [US] HD --> NEW LOOP",ESPN HD [US] HD --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442&pid=130
+http://172.18.0.10:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442&pid=128
 #EXTINF:-1 tvg-id="ESPN2 [US] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-us-espn.png" group-title="ESPN" tvg-name="ESPN2 [US] --> NEW LOOP",ESPN2 [US] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394&pid=131
+http://172.18.0.10:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394&pid=129
 #EXTINF:-1 tvg-id="M+ LALIGA --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga" tvg-name="M+ LALIGA --> NEW LOOP",M+ LALIGA --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=132
+http://172.18.0.10:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b&pid=130
 #EXTINF:-1 tvg-id="M+ LALIGA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga" tvg-name="M+ LALIGA FHD --> NEW ERA VI",M+ LALIGA FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=135
-#EXTINF:-1 tvg-id="M+ LALIGA FHD --> NEW ERA VI - 38a0" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga" tvg-name="M+ LALIGA FHD --> NEW ERA VI - 38a0",M+ LALIGA FHD --> NEW ERA VI - 38a0
-http://172.18.0.10:6878/ace/getstream?id=d2ddf9802ccfdc456f872eea4d24596880a638a0&pid=136
+http://172.18.0.10:6878/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231&pid=133
 #EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-1.png" group-title="M. La Liga" tvg-name="M. LaLiga 1080 MultiAudio",M. LaLiga 1080 MultiAudio
-http://172.18.0.10:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=138
+http://172.18.0.10:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e&pid=136
 #EXTINF:-1 tvg-id="M+ LALIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-2.png" group-title="M. La Liga" tvg-name="M+ LALIGA 2 FHD --> NEW ERA VI",M+ LALIGA 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=143
+http://172.18.0.10:6878/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d&pid=141
 #EXTINF:-1 tvg-id="M. LaLiga 2 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-2.png" group-title="M. La Liga" tvg-name="M. LaLiga 2 1080",M. LaLiga 2 1080
-http://172.18.0.10:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=145
+http://172.18.0.10:6878/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df8042ec&pid=143
+#EXTINF:-1 tvg-id="M. LaLiga 3 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-3.png" group-title="M. La Liga" tvg-name="M. LaLiga 3 1080",M. LaLiga 3 1080
+http://172.18.0.10:6878/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87&pid=147
 #EXTINF:-1 tvg-id="38f7b2044e549df2039ff26cefa6f9a60c854d5e" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="38f7b2044e549df2039ff26cefa6f9a60c854d5e",38f7b2044e549df2039ff26cefa6f9a60c854d5e
-http://172.18.0.10:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=154
+http://172.18.0.10:6878/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7&pid=152
 #EXTINF:-1 tvg-id="74ab4e4ec7e2da001f473ca40893b7307b8029c5" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="74ab4e4ec7e2da001f473ca40893b7307b8029c5",74ab4e4ec7e2da001f473ca40893b7307b8029c5
-http://172.18.0.10:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=157
+http://172.18.0.10:6878/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&pid=155
 #EXTINF:-1 tvg-id="97df5b7824948972d041d8ca2a4d29c90b641bc9" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="97df5b7824948972d041d8ca2a4d29c90b641bc9",97df5b7824948972d041d8ca2a4d29c90b641bc9
-http://172.18.0.10:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=159
+http://172.18.0.10:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=157
 #EXTINF:-1 tvg-id="ANTENA 3 FHD --> NEW ERA - 40e9" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ANTENA 3 FHD --> NEW ERA - 40e9",ANTENA 3 FHD --> NEW ERA - 40e9
-http://172.18.0.10:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9&pid=162
+http://172.18.0.10:6878/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9&pid=160
 #EXTINF:-1 tvg-id="ARAGON TV HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ARAGON TV HD --> NEW ERA",ARAGON TV HD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b&pid=163
+http://172.18.0.10:6878/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b&pid=161
 #EXTINF:-1 tvg-id="b028202ff335911db3118bceac027df3e8ef6c32" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="b028202ff335911db3118bceac027df3e8ef6c32",b028202ff335911db3118bceac027df3e8ef6c32
-http://172.18.0.10:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=165
+http://172.18.0.10:6878/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&pid=163
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS 1 --> NEW LOOP",BEIN SPORTS 1 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&pid=166
+http://172.18.0.10:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0&pid=164
 #EXTINF:-1 tvg-id="BEIN SPORTS 1 FHD --> NEW ERA - 69eb" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS 1 FHD --> NEW ERA - 69eb",BEIN SPORTS 1 FHD --> NEW ERA - 69eb
-http://172.18.0.10:6878/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb&pid=168
+http://172.18.0.10:6878/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb&pid=166
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS 2 --> NEW LOOP",BEIN SPORTS 2 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc&pid=169
+http://172.18.0.10:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc&pid=167
 #EXTINF:-1 tvg-id="BEIN SPORTS 2 FHD --> NEW ERA - 5454" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS 2 FHD --> NEW ERA - 5454",BEIN SPORTS 2 FHD --> NEW ERA - 5454
-http://172.18.0.10:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454&pid=171
+http://172.18.0.10:6878/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454&pid=169
 #EXTINF:-1 tvg-id="BEIN SPORTS 3 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS 3 --> NEW LOOP",BEIN SPORTS 3 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&pid=172
+http://172.18.0.10:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8&pid=170
 #EXTINF:-1 tvg-id="BEIN SPORTS N --> NEW LOOP - 68f9" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BEIN SPORTS N --> NEW LOOP - 68f9",BEIN SPORTS N --> NEW LOOP - 68f9
-http://172.18.0.10:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9&pid=175
+http://172.18.0.10:6878/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9&pid=173
 #EXTINF:-1 tvg-id="BT Sport 1 [UK] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BT Sport 1 [UK] --> NEW LOOP",BT Sport 1 [UK] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce&pid=176
+http://172.18.0.10:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce&pid=174
 #EXTINF:-1 tvg-id="BT Sport 1 [UK] --> NEW LOOP - 3c5b" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BT Sport 1 [UK] --> NEW LOOP - 3c5b",BT Sport 1 [UK] --> NEW LOOP - 3c5b
-http://172.18.0.10:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=177
+http://172.18.0.10:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&pid=175
 #EXTINF:-1 tvg-id="BT Sport 2 [UK] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BT Sport 2 [UK] --> NEW LOOP",BT Sport 2 [UK] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&pid=178
+http://172.18.0.10:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&pid=176
 #EXTINF:-1 tvg-id="BT Sport 3 [UK] --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="BT Sport 3 [UK] --> NEW LOOP",BT Sport 3 [UK] --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&pid=179
+http://172.18.0.10:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&pid=177
 #EXTINF:-1 tvg-id="CANAL COCINA FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="CANAL COCINA FHD --> NEW ERA",CANAL COCINA FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b&pid=185
+http://172.18.0.10:6878/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b&pid=183
 #EXTINF:-1 tvg-id="CANAL MOTOR --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="CANAL MOTOR --> NEW LOOP",CANAL MOTOR --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5&pid=186
+http://172.18.0.10:6878/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5&pid=184
 #EXTINF:-1 tvg-id="cfc371890bfb502737a26de5215e50929c52d0f9" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="cfc371890bfb502737a26de5215e50929c52d0f9",cfc371890bfb502737a26de5215e50929c52d0f9
-http://172.18.0.10:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5&pid=187
+http://172.18.0.10:6878/ace/getstream?id=3d376333ee90d6db3d413fc5764ef635882076f5&pid=185
 #EXTINF:-1 tvg-id="CUATRO FHD --> NEW ERA - 4ef0" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="CUATRO FHD --> NEW ERA - 4ef0",CUATRO FHD --> NEW ERA - 4ef0
-http://172.18.0.10:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0&pid=193
+http://172.18.0.10:6878/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0&pid=191
 #EXTINF:-1 tvg-id="Dedporte 2 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Dedporte 2 1080",Dedporte 2 1080
-http://172.18.0.10:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=194
+http://172.18.0.10:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0&pid=192
 #EXTINF:-1 tvg-id="Deporte 2 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Deporte 2 720",Deporte 2 720
-http://172.18.0.10:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=196
+http://172.18.0.10:6878/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25&pid=194
 #EXTINF:-1 tvg-id="Deporte 3 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Deporte 3 720",Deporte 3 720
-http://172.18.0.10:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=198
+http://172.18.0.10:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534&pid=196
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="DISCOVERY CHANNEL HD --> NEW ERA",DISCOVERY CHANNEL HD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&pid=203
+http://172.18.0.10:6878/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8&pid=201
 #EXTINF:-1 tvg-id="ESPORT 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ESPORT 3 FHD --> NEW ERA",ESPORT 3 FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425&pid=204
+http://172.18.0.10:6878/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425&pid=202
 #EXTINF:-1 tvg-id="ESSPN ARGENTINA --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ESSPN ARGENTINA --> NEW ERA",ESSPN ARGENTINA --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47&pid=205
+http://172.18.0.10:6878/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47&pid=203
 #EXTINF:-1 tvg-id="ESSPN LAT DEPORT --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ESSPN LAT DEPORT --> NEW ERA",ESSPN LAT DEPORT --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8&pid=206
+http://172.18.0.10:6878/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8&pid=204
+#EXTINF:-1 tvg-id="FOX PREMIUM UFC -->NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="FOX PREMIUM UFC -->NEW ERA",FOX PREMIUM UFC -->NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1&pid=206
 #EXTINF:-1 tvg-id="FOX SPORT MX --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="FOX SPORT MX --> NEW ERA",FOX SPORT MX --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=a0464d3642e054f6122e7c309017d1e8d23f4da9&pid=208
-#EXTINF:-1 tvg-id="GOL PLAY FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="GOL PLAY FHD --> NEW ERA",GOL PLAY FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=b2d560741c006fc5e4a42412bb52dbd25a6a4a3a&pid=209
+http://172.18.0.10:6878/ace/getstream?id=a0464d3642e054f6122e7c309017d1e8d23f4da9&pid=207
 #EXTINF:-1 tvg-id="GOL PLAY FHD --> NEW ERA - 0612" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="GOL PLAY FHD --> NEW ERA - 0612",GOL PLAY FHD --> NEW ERA - 0612
-http://172.18.0.10:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612&pid=210
+http://172.18.0.10:6878/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612&pid=209
 #EXTINF:-1 tvg-id="GOL PLAY FHD --> NEW ERA - 4f93" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="GOL PLAY FHD --> NEW ERA - 4f93",GOL PLAY FHD --> NEW ERA - 4f93
-http://172.18.0.10:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93&pid=211
+http://172.18.0.10:6878/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93&pid=210
 #EXTINF:-1 tvg-id="HYPERMOTION 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="HYPERMOTION 2 FHD --> NEW ERA VI",HYPERMOTION 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=214
+http://172.18.0.10:6878/ace/getstream?id=8a05571c0c8fe53f160fb7d116cdf97243679e86&pid=213
 #EXTINF:-1 tvg-id="HYPERMOTION 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="HYPERMOTION 3 FHD --> NEW ERA VI",HYPERMOTION 3 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6&pid=219
+http://172.18.0.10:6878/ace/getstream?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6&pid=218
 #EXTINF:-1 tvg-id="HYPERMOTION FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="HYPERMOTION FHD --> NEW ERA VI",HYPERMOTION FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=223
+http://172.18.0.10:6878/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a&pid=222
 #EXTINF:-1 tvg-id="HYPERMOTION FHD --> NEW ERA VI - cda4" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="HYPERMOTION FHD --> NEW ERA VI - cda4",HYPERMOTION FHD --> NEW ERA VI - cda4
-http://172.18.0.10:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=224
+http://172.18.0.10:6878/ace/getstream?id=70f22be1286ef224b5e4e9451d9a42468152cda4&pid=223
 #EXTINF:-1 tvg-id="LA 1 FHD --> NEW ERA - 40ba" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="LA 1 FHD --> NEW ERA - 40ba",LA 1 FHD --> NEW ERA - 40ba
-http://172.18.0.10:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba&pid=227
+http://172.18.0.10:6878/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba&pid=226
+#EXTINF:-1 tvg-id="LA 1 FHD --> NEW ERA - 740c" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="LA 1 FHD --> NEW ERA - 740c",LA 1 FHD --> NEW ERA - 740c
+http://172.18.0.10:6878/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c&pid=227
 #EXTINF:-1 tvg-id="LA 2 FHD --> NEW ERA - c2ed" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="LA 2 FHD --> NEW ERA - c2ed",LA 2 FHD --> NEW ERA - c2ed
 http://172.18.0.10:6878/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed&pid=229
 #EXTINF:-1 tvg-id="LA SEXTA FHD --> NEW ERA - 457f" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="LA SEXTA FHD --> NEW ERA - 457f",LA SEXTA FHD --> NEW ERA - 457f
@@ -223,8 +237,6 @@ http://172.18.0.10:6878/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59c
 http://172.18.0.10:6878/ace/getstream?id=089673779de9fa7a18ac8dc26eb4a79cf5a86f96&pid=252
 #EXTINF:-1 tvg-id="MOVISTAR CINE ESPANOL FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR CINE ESPANOL FHD --> NEW ERA VI",MOVISTAR CINE ESPANOL FHD --> NEW ERA VI
 http://172.18.0.10:6878/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&pid=253
-#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR CLASICOS FHD --> NEW ERA",MOVISTAR CLASICOS FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c&pid=254
 #EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR CLASICOS FHD --> NEW ERA VI",MOVISTAR CLASICOS FHD --> NEW ERA VI
 http://172.18.0.10:6878/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&pid=255
 #EXTINF:-1 tvg-id="MOVISTAR COMEDIA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR COMEDIA FHD --> NEW ERA VI",MOVISTAR COMEDIA FHD --> NEW ERA VI
@@ -233,6 +245,8 @@ http://172.18.0.10:6878/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df
 http://172.18.0.10:6878/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&pid=258
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES 2 FHD --> NEW ERA - 25a3" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 2 FHD --> NEW ERA - 25a3",MOVISTAR DEPORTES 2 FHD --> NEW ERA - 25a3
 http://172.18.0.10:6878/ace/getstream?id=6e212a916c83638268047dd2757c95b14f7d25a3&pid=263
+#EXTINF:-1 tvg-id="MOVISTAR DEPORTES 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 2 FHD --> NEW ERA VI",MOVISTAR DEPORTES 2 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61&pid=264
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES 3 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 3 FHD --> NEW ERA",MOVISTAR DEPORTES 3 FHD --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee&pid=265
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 3 FHD --> NEW ERA VI",MOVISTAR DEPORTES 3 FHD --> NEW ERA VI
@@ -246,100 +260,110 @@ http://172.18.0.10:6878/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES 5 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 5 FHD --> NEW ERA",MOVISTAR DEPORTES 5 FHD --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916&pid=271
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES 5 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES 5 FHD --> NEW ERA VI",MOVISTAR DEPORTES 5 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=273
+http://172.18.0.10:6878/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c&pid=272
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA",MOVISTAR DEPORTES FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=280
+http://172.18.0.10:6878/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a&pid=276
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES FHD --> NEW ERA - 355d" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA - 355d",MOVISTAR DEPORTES FHD --> NEW ERA - 355d
-http://172.18.0.10:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=281
+http://172.18.0.10:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d&pid=277
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES FHD --> NEW ERA - c7e5" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA - c7e5",MOVISTAR DEPORTES FHD --> NEW ERA - c7e5
-http://172.18.0.10:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=284
+http://172.18.0.10:6878/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5&pid=280
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA VI",MOVISTAR DEPORTES FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=286
+http://172.18.0.10:6878/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359&pid=282
 #EXTINF:-1 tvg-id="MOVISTAR DEPORTES FHD --> NEW ERA VI - bd0b" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DEPORTES FHD --> NEW ERA VI - bd0b",MOVISTAR DEPORTES FHD --> NEW ERA VI - bd0b
-http://172.18.0.10:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=287
+http://172.18.0.10:6878/ace/getstream?id=3692ea4cdda97eb0062ed5d656ebd61f149ebd0b&pid=283
 #EXTINF:-1 tvg-id="MOVISTAR DOCUMENTALES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DOCUMENTALES FHD --> NEW ERA VI",MOVISTAR DOCUMENTALES FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=289
+http://172.18.0.10:6878/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9&pid=285
 #EXTINF:-1 tvg-id="MOVISTAR DRAMA FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR DRAMA FHD --> NEW ERA VI",MOVISTAR DRAMA FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae&pid=290
+http://172.18.0.10:6878/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae&pid=286
 #EXTINF:-1 tvg-id="MOVISTAR ELLAS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR ELLAS FHD --> NEW ERA",MOVISTAR ELLAS FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd&pid=292
+http://172.18.0.10:6878/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd&pid=288
+#EXTINF:-1 tvg-id="Movistar Ellas Vamos --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Movistar Ellas Vamos --> NEW ERA VI",Movistar Ellas Vamos --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285&pid=290
 #EXTINF:-1 tvg-id="MOVISTAR ESTRENOS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR ESTRENOS FHD --> NEW ERA VI",MOVISTAR ESTRENOS FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131&pid=294
+http://172.18.0.10:6878/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131&pid=291
 #EXTINF:-1 tvg-id="MOVISTAR GOLF 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR GOLF 2 FHD --> NEW ERA",MOVISTAR GOLF 2 FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7&pid=295
+http://172.18.0.10:6878/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7&pid=292
 #EXTINF:-1 tvg-id="MOVISTAR GOLF FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR GOLF FHD --> NEW ERA",MOVISTAR GOLF FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031&pid=296
-#EXTINF:-1 tvg-id="MOVISTAR GOLF FHD --> NEW ERA - 5174" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR GOLF FHD --> NEW ERA - 5174",MOVISTAR GOLF FHD --> NEW ERA - 5174
-http://172.18.0.10:6878/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174&pid=297
+http://172.18.0.10:6878/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031&pid=293
 #EXTINF:-1 tvg-id="MOVISTAR GOLF FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR GOLF FHD --> NEW ERA VI",MOVISTAR GOLF FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2&pid=298
+http://172.18.0.10:6878/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2&pid=295
 #EXTINF:-1 tvg-id="MOVISTAR GOLF HD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR GOLF HD --> NEW LOOP",MOVISTAR GOLF HD --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb&pid=299
+http://172.18.0.10:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb&pid=296
 #EXTINF:-1 tvg-id="MOVISTAR HITS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR HITS FHD --> NEW ERA VI",MOVISTAR HITS FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&pid=300
+http://172.18.0.10:6878/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065&pid=297
 #EXTINF:-1 tvg-id="MOVISTAR INDIE FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR INDIE FHD --> NEW ERA VI",MOVISTAR INDIE FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&pid=301
+http://172.18.0.10:6878/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&pid=298
 #EXTINF:-1 tvg-id="MOVISTAR ORIGINALES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR ORIGINALES FHD --> NEW ERA VI",MOVISTAR ORIGINALES FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=302
+http://172.18.0.10:6878/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162&pid=299
+#EXTINF:-1 tvg-id="MOVISTAR VACACIONES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR VACACIONES FHD --> NEW ERA VI",MOVISTAR VACACIONES FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7&pid=301
 #EXTINF:-1 tvg-id="MOVISTAR VAMOS FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA",MOVISTAR VAMOS FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=307
+http://172.18.0.10:6878/ace/getstream?id=3b2a8b41e7097c16b0468b42d7de0320886fa933&pid=304
 #EXTINF:-1 tvg-id="MOVISTAR VAMOS FHD --> NEW ERA - 2eae" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA - 2eae",MOVISTAR VAMOS FHD --> NEW ERA - 2eae
-http://172.18.0.10:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=308
+http://172.18.0.10:6878/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172eae&pid=305
+#EXTINF:-1 tvg-id="MOVISTAR VAMOS FHD --> NEW ERA - b548" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA - b548",MOVISTAR VAMOS FHD --> NEW ERA - b548
+http://172.18.0.10:6878/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548&pid=307
 #EXTINF:-1 tvg-id="MOVISTAR VAMOS FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MOVISTAR VAMOS FHD --> NEW ERA VI",MOVISTAR VAMOS FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=312
-#EXTINF:-1 tvg-id="MovistarPlus 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="MovistarPlus 1080",MovistarPlus 1080
-http://172.18.0.10:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78&pid=313
+http://172.18.0.10:6878/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde&pid=309
+#EXTINF:-1 tvg-id="ONETORO --> NEW ERA III" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ONETORO --> NEW ERA III",ONETORO --> NEW ERA III
+http://172.18.0.10:6878/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312&pid=313
 #EXTINF:-1 tvg-id="Orange TV --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Orange TV --> NEW LOOP",Orange TV --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa&pid=318
+http://172.18.0.10:6878/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa&pid=315
 #EXTINF:-1 tvg-id="PREMIER SPORTS 1 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="PREMIER SPORTS 1 --> NEW LOOP",PREMIER SPORTS 1 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=319
+http://172.18.0.10:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&pid=316
 #EXTINF:-1 tvg-id="PREMIER SPORTS 2 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="PREMIER SPORTS 2 --> NEW LOOP",PREMIER SPORTS 2 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&pid=320
+http://172.18.0.10:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&pid=317
 #EXTINF:-1 tvg-id="Primera Federacion FHD  --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Primera Federacion FHD  --> NEW ERA",Primera Federacion FHD  --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476&pid=321
+http://172.18.0.10:6878/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476&pid=318
+#EXTINF:-1 tvg-id="Primera Federacion FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Primera Federacion FHD --> NEW ERA",Primera Federacion FHD --> NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9&pid=319
 #EXTINF:-1 tvg-id="PRIMERA FEDERACION FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="PRIMERA FEDERACION FHD --> NEW ERA VI",PRIMERA FEDERACION FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57&pid=322
+http://172.18.0.10:6878/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57&pid=320
+#EXTINF:-1 tvg-id="RALLY TV --> NEW ERA III - b2ea" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="RALLY TV --> NEW ERA III - b2ea",RALLY TV --> NEW ERA III - b2ea
+http://172.18.0.10:6878/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea&pid=322
+#EXTINF:-1 tvg-id="RALLY TV FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="RALLY TV FHD --> NEW ERA",RALLY TV FHD --> NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb&pid=323
 #EXTINF:-1 tvg-id="REAL MADRID TV HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="REAL MADRID TV HD --> NEW ERA",REAL MADRID TV HD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e&pid=325
+http://172.18.0.10:6878/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e&pid=324
 #EXTINF:-1 tvg-id="S SPORT 1 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="S SPORT 1 FHD --> NEW ERA",S SPORT 1 FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=6ad87abc93cc3c8508be327e313afcd3aa37ec0b&pid=327
+http://172.18.0.10:6878/ace/getstream?id=6ad87abc93cc3c8508be327e313afcd3aa37ec0b&pid=326
 #EXTINF:-1 tvg-id="SKY SPORTS ARENA --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="SKY SPORTS ARENA --> NEW LOOP",SKY SPORTS ARENA --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&pid=328
+http://172.18.0.10:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c&pid=327
 #EXTINF:-1 tvg-id="SKY SPORTS CRICKET --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="SKY SPORTS CRICKET --> NEW LOOP",SKY SPORTS CRICKET --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&pid=329
+http://172.18.0.10:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd&pid=328
+#EXTINF:-1 tvg-id="SKY SPORTS FOOTBALL --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="SKY SPORTS FOOTBALL --> NEW LOOP",SKY SPORTS FOOTBALL --> NEW LOOP
+http://172.18.0.10:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d&pid=329
 #EXTINF:-1 tvg-id="SKY SPORTS MAIN EVENT --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="SKY SPORTS MAIN EVENT --> NEW LOOP",SKY SPORTS MAIN EVENT --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&pid=331
+http://172.18.0.10:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e&pid=330
 #EXTINF:-1 tvg-id="TELECINCO FHD --> NEW ERA - 9ca7" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TELECINCO FHD --> NEW ERA - 9ca7",TELECINCO FHD --> NEW ERA - 9ca7
-http://172.18.0.10:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7&pid=334
-#EXTINF:-1 tvg-id="TELECINCO FHD --> NEW ERA - f7bf" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TELECINCO FHD --> NEW ERA - f7bf",TELECINCO FHD --> NEW ERA - f7bf
-http://172.18.0.10:6878/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf&pid=335
+http://172.18.0.10:6878/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7&pid=333
 #EXTINF:-1 tvg-id="TELEDEPORTE FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TELEDEPORTE FHD --> NEW ERA",TELEDEPORTE FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=336
-#EXTINF:-1 tvg-id="TELEDEPORTE FHD --> NEW ERA - d9ef" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TELEDEPORTE FHD --> NEW ERA - d9ef",TELEDEPORTE FHD --> NEW ERA - d9ef
-http://172.18.0.10:6878/ace/getstream?id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef&pid=337
+http://172.18.0.10:6878/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230&pid=335
 #EXTINF:-1 tvg-id="Ten TV FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="Ten TV FHD --> NEW ERA",Ten TV FHD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc&pid=338
+http://172.18.0.10:6878/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc&pid=337
 #EXTINF:-1 tvg-id="TENNIS CHANNEL --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TENNIS CHANNEL --> NEW LOOP",TENNIS CHANNEL --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=339
+http://172.18.0.10:6878/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf&pid=338
 #EXTINF:-1 tvg-id="TENNIS CHANNEL HD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TENNIS CHANNEL HD --> NEW LOOP",TENNIS CHANNEL HD --> NEW LOOP
 http://172.18.0.10:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac&pid=341
 #EXTINF:-1 tvg-id="TNT SPORTS HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TNT SPORTS HD --> NEW ERA",TNT SPORTS HD --> NEW ERA
 http://172.18.0.10:6878/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e&pid=342
+#EXTINF:-1 tvg-id="TR: beIN Sports 4 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TR: beIN Sports 4 FHD --> NEW ERA",TR: beIN Sports 4 FHD --> NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b&pid=343
+#EXTINF:-1 tvg-id="TR: S SPORT 2 HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TR: S SPORT 2 HD --> NEW ERA",TR: S SPORT 2 HD --> NEW ERA
+http://172.18.0.10:6878/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4&pid=345
 #EXTINF:-1 tvg-id="TVG EUROPA HD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="TVG EUROPA HD --> NEW ERA",TVG EUROPA HD --> NEW ERA
-http://172.18.0.10:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1&pid=347
+http://172.18.0.10:6878/ace/getstream?id=d48b299bbcd811cfd14159224bf5012a305021c1&pid=346
 #EXTINF:-1 tvg-id="UFC Fight Pass --> NEW ERA - 89ad" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="UFC Fight Pass --> NEW ERA - 89ad",UFC Fight Pass --> NEW ERA - 89ad
-http://172.18.0.10:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad&pid=350
+http://172.18.0.10:6878/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad&pid=349
 #EXTINF:-1 tvg-id="ZIGGO SPORT --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ZIGGO SPORT --> NEW LOOP",ZIGGO SPORT --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058&pid=351
+http://172.18.0.10:6878/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058&pid=350
 #EXTINF:-1 tvg-id="ZIGGO SPORT 2 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ZIGGO SPORT 2 --> NEW LOOP",ZIGGO SPORT 2 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&pid=352
+http://172.18.0.10:6878/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027&pid=351
 #EXTINF:-1 tvg-id="ZIGGO SPORT 6 --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros" tvg-name="ZIGGO SPORT 6 --> NEW LOOP",ZIGGO SPORT 6 --> NEW LOOP
-http://172.18.0.10:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed&pid=353
-#EXTINF:-1 tvg-id="LaLiga Smartbank 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-smartbank.png" group-title="L.L. SmartBank" tvg-name="LaLiga Smartbank 1080",LaLiga Smartbank 1080
-http://172.18.0.10:6878/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0&pid=354
+http://172.18.0.10:6878/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed&pid=352
 #EXTINF:-1 tvg-id="LaLiga Smartbank 2 1080" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-smartbank.png" group-title="L.L. SmartBank" tvg-name="LaLiga Smartbank 2 1080",LaLiga Smartbank 2 1080
-http://172.18.0.10:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=355
+http://172.18.0.10:6878/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8&pid=354
 #EXTINF:-1 tvg-id="LaLiga Smartbank 3 1080 ELCANO" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-smartbank.png" group-title="L.L. SmartBank" tvg-name="LaLiga Smartbank 3 1080 ELCANO",LaLiga Smartbank 3 1080 ELCANO
-http://172.18.0.10:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e&pid=356
+http://172.18.0.10:6878/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e&pid=355
 #EXTINF:-1 tvg-id="LaLiga Smartbank 720" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-laliga-smartbank.png" group-title="L.L. SmartBank" tvg-name="LaLiga Smartbank 720",LaLiga Smartbank 720
-http://172.18.0.10:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=357
+http://172.18.0.10:6878/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c8cd&pid=356
