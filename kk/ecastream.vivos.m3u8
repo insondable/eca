@@ -80,4 +80,4 @@ http://127.0.0.1:6878/ace/getstream?type=content_id&content_id=cf0cb321eed6765c2
 #EXTINF:-1 tvg-id="Clasicos por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Clasicos por M+
 http://127.0.0.1:6878/ace/getstream?type=content_id&content_id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&title=Clasicos+por+M%2B&transport_http=yes
 #EXTINF:-1 tvg-id="Romance por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Romance por M+
-http://127.0.0.1:6878/ace/getstream?type=content_id&content_id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&title=Romance+por+M%2B&transport_http=yes
+http://127.0.0.1:6878/ace/getstream?type=content_id&content_id=25465ea2deba65c623b7659136abf6fcc9f5dc20&title=Romance+por+M%2B&transport_http=yes
