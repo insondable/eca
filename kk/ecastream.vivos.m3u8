@@ -1,71 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&title=DAZN+LaLiga+3&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f&title=DAZN+LaLiga+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&title=DAZN+LaLiga&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d2ddf9802ccfdc456f872eea4d24596880a638a0&title=M%2B+LaLiga+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&title=DAZN+LaLiga+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c976c7b37964322752db562b4ad65515509c8d36&title=DAZN+LaLiga+2+2&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=911ad127726234b97658498a8b790fdd7516541d&title=M%2B+LaLiga&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b8eb9c9868d487402569bba2d97a8af113d033fe&title=M%2B+LaLiga+2&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&title=M%2B+LaLiga+3&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&title=DAZN+1&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ae68a0835039fab28fd2314108fabd4fab33b8ab&title=DAZN+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 1 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b03f9310155cf3b4eafc1dfba763781abc3ff025&title=DAZN+1+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e401fdceebffdf1f09aef954844d09f6c62f460&title=DAZN+3&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&title=DAZN+F1&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&title=DAZN+F1+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&title=DAZN+F1+3&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&title=DAZN+F1+4&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ed6188dcbb491efeb2092c1a6199226c27f61727&title=DAZN+F1+5&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=97df5b7824948972d041d8ca2a4d29c90b641bc9&title=M%2B+Liga+de+Campeones+2&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&title=M%2B+Liga+de+Campeones+2+2&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&title=M%2B+Liga+de+Campeones+3&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&title=M%2B+Liga+de+Campeones&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&title=M%2B+Liga+de+Campeones+2&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&title=M%2B+Liga+de+Campeones+2+3&transport_http=yes
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4416843c96b7f7a1bc55c476091a60fff0922bc7&title=M%2B+Liga+de+Campeones+3&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87&title=M%2B+LaLiga+3&transport_http=yes
-#EXTINF:-1 tvg-id="Estrenos por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Estrenos por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131&title=Estrenos+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Documentales por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Documentales por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b3fc9b5647c5933b101c0b6b64322590c68587b9&title=Documentales+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Originales por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Originales por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=096b817fcc836535f608facb15fca6408fae3162&title=Originales+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Indie por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Indie por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7716c9fd5bd4413715e4e26f97efb91802f6ee80&title=Indie+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Cine Espanol por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Cine Espanol por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c&title=Cine+Espanol+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Comedia por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Comedia por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=cf0cb321eed6765c2eadbd9983570f6674ce5df6&title=Comedia+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Clasicos por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Clasicos por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae&title=Clasicos+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Romance por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Romance por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&title=Romance+por+M%2B&transport_http=yes
-#EXTINF:-1 tvg-id="Drama por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Drama por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=a6de6a4977d7801bbddc9c7739d822f4beb358ae&title=Drama+por+M%2B&transport_http=yes
+#EXTINF:-1 tvg-id="M.L. Campeones" tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España-NEWLOOP", M.L. Campeones
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e572a5178ff72eed7d1d751a18b4b3419699f370&title=M.L.+Campeones&transport_http=yes
+#EXTINF:-1 tvg-id="Dazn Laliga 1" tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="España-NEWLOOP", Dazn Laliga 1
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=99171f30c83bf7ab5df28b39607c91334cc60e4b&title=Dazn+Laliga+1&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 2" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="España-NEWLOOP", DAZN F1 2
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d65257bb934b73647374224fd62d836815804be2&title=DAZN+F1+2&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="España-NEWLOOP", DAZN F1
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8272d1ed95cdd8945c248ce488fa26bd435fb71f&title=DAZN+F1&transport_http=yes
+#EXTINF:-1 tvg-id="M+ LALIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="Liga", M+ LALIGA 2 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=911ad127726234b97658498a8b790fdd7516541d&title=M%2B+LALIGA+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN LA LIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga", DAZN LA LIGA 2 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&title=DAZN+LA+LIGA+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones", LIGA DE CAMPEONES FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f7842f8b6c26571e5a974407b61623e56e6a052&title=LIGA+DE+CAMPEONES+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones", LIGA DE CAMPEONES FHD --> NEW ERA VI 2
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&title=LIGA+DE+CAMPEONES+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones", LIGA DE CAMPEONES 3 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=2b5129adc57d43790634d796fe3468b9fd061259&title=LIGA+DE+CAMPEONES+3+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones", LIGA DE CAMPEONES 2 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&title=LIGA+DE+CAMPEONES+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn", DAZN 1 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b03f9310155cf3b4eafc1dfba763781abc3ff025&title=DAZN+1+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn", DAZN 1 FHD --> NEW ERA VI 2
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=36394be1db2e20b5997d987c32fd38c7f0f194b7&title=DAZN+1+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="Dazn", DAZN 3 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e401fdceebffdf1f09aef954844d09f6c62f460&title=DAZN+3+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1", DAZN F1 FHD --> NEW ERA VI
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&title=DAZN+F1+FHD+--%3E+NEW+ERA+VI&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1", DAZN F1 FHD --> NEW ERA VI 2
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&title=DAZN+F1+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
+#EXTINF:-1 tvg-id="Sky Bundesliga" tvg-logo="https://i.ibb.co/f1TTYBf/skysportb.png" group-title="Alemania", Sky Bundesliga
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&title=Sky+Bundesliga&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania", DAZN 2 DE
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&title=DAZN+2+DE&transport_http=yes
