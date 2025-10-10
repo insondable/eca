@@ -1,35 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M.L. Campeones" tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="España-NEWLOOP", M.L. Campeones
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e572a5178ff72eed7d1d751a18b4b3419699f370&title=M.L.+Campeones&transport_http=yes
-#EXTINF:-1 tvg-id="Dazn Laliga 1" tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="España-NEWLOOP", Dazn Laliga 1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=99171f30c83bf7ab5df28b39607c91334cc60e4b&title=Dazn+Laliga+1&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 2" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="España-NEWLOOP", DAZN F1 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d65257bb934b73647374224fd62d836815804be2&title=DAZN+F1+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="España-NEWLOOP", DAZN F1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8272d1ed95cdd8945c248ce488fa26bd435fb71f&title=DAZN+F1&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LALIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="Liga", M+ LALIGA 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=911ad127726234b97658498a8b790fdd7516541d&title=M%2B+LALIGA+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LA LIGA 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN LaLiga", DAZN LA LIGA 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&title=DAZN+LA+LIGA+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones", LIGA DE CAMPEONES FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f7842f8b6c26571e5a974407b61623e56e6a052&title=LIGA+DE+CAMPEONES+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones", LIGA DE CAMPEONES FHD --> NEW ERA VI 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&title=LIGA+DE+CAMPEONES+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones", LIGA DE CAMPEONES 3 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=2b5129adc57d43790634d796fe3468b9fd061259&title=LIGA+DE+CAMPEONES+3+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES 2 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones", LIGA DE CAMPEONES 2 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30&title=LIGA+DE+CAMPEONES+2+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn", DAZN 1 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b03f9310155cf3b4eafc1dfba763781abc3ff025&title=DAZN+1+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn", DAZN 1 FHD --> NEW ERA VI 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=36394be1db2e20b5997d987c32fd38c7f0f194b7&title=DAZN+1+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 3 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="Dazn", DAZN 3 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e401fdceebffdf1f09aef954844d09f6c62f460&title=DAZN+3+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1", DAZN F1 FHD --> NEW ERA VI
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&title=DAZN+F1+FHD+--%3E+NEW+ERA+VI&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 FHD --> NEW ERA VI 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="F1", DAZN F1 FHD --> NEW ERA VI 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&title=DAZN+F1+FHD+--%3E+NEW+ERA+VI+2&transport_http=yes
-#EXTINF:-1 tvg-id="Sky Bundesliga" tvg-logo="https://i.ibb.co/f1TTYBf/skysportb.png" group-title="Alemania", Sky Bundesliga
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&title=Sky+Bundesliga&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 2 DE" tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania", DAZN 2 DE
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=12ea555d431dbe51fc8e4ca745aec09fe22a4865&title=DAZN+2+DE&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN LaLiga [2] 1080p" tvg-logo="https://i.postimg.cc/9QK5zX40/daznlaliga.png" group-title="LaLiga", DAZN LaLiga [2] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&title=DAZN+LaLiga+%5B2%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ LaLiga TV [1].alt 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [1].alt 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c9321006921967d6258df6945f1d598a5c0cbf1e&title=M%2B+LaLiga+TV+%5B1%5D.alt+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ LaLiga TV [3] 1080p" tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png" group-title="LaLiga", M+ LaLiga TV [3] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87&title=M%2B+LaLiga+TV+%5B3%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Liga de Campeones [1].alt 1080p" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1].alt 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&title=M%2B+Liga+de+Campeones+%5B1%5D.alt+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Liga de Campeones [1] 720p" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [1] 720p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b028202ff335911db3118bceac027df3e8ef6c32&title=M%2B+Liga+de+Campeones+%5B1%5D+720p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Liga de Campeones [2] 1080p" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [2] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&title=M%2B+Liga+de+Campeones+%5B2%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Liga de Campeones [2] 720p" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [2] 720p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&title=M%2B+Liga+de+Campeones+%5B2%5D+720p&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Liga de Campeones [3] 1080p" tvg-logo="https://i.postimg.cc/zGK9CbvY/Liga-Campeones.png" group-title="Liga de Campeones", M+ Liga de Campeones [3] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4416843c96b7f7a1bc55c476091a60fff0922bc7&title=M%2B+Liga+de+Campeones+%5B3%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN [1] 1080p" tvg-logo="https://i.postimg.cc/GmVXhmvs/dazn1.png" group-title="DAZN", DAZN [1] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&title=DAZN+%5B1%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN [2] 1080p" tvg-logo="https://i.postimg.cc/mkjdb3Sb/dazn2.png" group-title="DAZN", DAZN [2] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ae68a0835039fab28fd2314108fabd4fab33b8ab&title=DAZN+%5B2%5D+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 [1].alt2 1080p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1].alt2 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&title=DAZN+F1+%5B1%5D.alt2+1080p&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 [1] 720p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1] 720p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ed6188dcbb491efeb2092c1a6199226c27f61727&title=DAZN+F1+%5B1%5D+720p&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN F1 [1] 1080p" tvg-logo="https://i.postimg.cc/d18HfckZ/daznf1.png" group-title="F1", DAZN F1 [1] 1080p
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&title=DAZN+F1+%5B1%5D+1080p&transport_http=yes
