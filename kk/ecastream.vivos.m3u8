@@ -1,76 +1,72 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f&title=DAZN+LaLiga&pid=4e6d9cf7d177&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&title=DAZN+LaLiga&pid=5091ea94b75b&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&title=DAZN+LaLiga+2&pid=5091ea94b75b&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&title=DAZN+LaLiga+2&pid=e2b8a4aba2f4&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&title=DAZN+LaLiga+3&pid=dda5d2cace9b&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f&title=DAZN+LaLiga+3&pid=4e6d9cf7d177&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=74defb8f4ed3a917fd07c21b34f43c17107ec618&title=DAZN+LaLiga+4&pid=74defb8f4ed3&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&title=DAZN+LaLiga+4&pid=0e50439e68aa&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&title=DAZN+LaLiga+5&pid=1bb5bf76fb20&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a&title=DAZN+LaLiga+5&pid=dda5d2cace9b&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 6
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1&title=DAZN+LaLiga+6&pid=0e50439e68aa&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga 7" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 7
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&title=DAZN+LaLiga+7&pid=e2b8a4aba2f4&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&title=DAZN+LaLiga+6&pid=1bb5bf76fb20&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c976c7b37964322752db562b4ad65515509c8d36&title=DAZN+LaLiga+2&pid=c976c7b37964&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&title=DAZN+LaLiga+2&pid=a231b2fa1f77&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN LaLiga 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&title=DAZN+LaLiga+2+2&pid=a231b2fa1f77&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c976c7b37964322752db562b4ad65515509c8d36&title=DAZN+LaLiga+2+2&pid=c976c7b37964&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=911ad127726234b97658498a8b790fdd7516541d&title=M%2B+LaLiga&pid=911ad1277262&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d2ddf9802ccfdc456f872eea4d24596880a638a0&title=M%2B+LaLiga+2&pid=d2ddf9802ccf&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c9321006921967d6258df6945f1d598a5c0cbf1e&title=M%2B+LaLiga+3&pid=c93210069219&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=107c3ce5a5d2527c9f06e4eab87477201791f231&title=M%2B+LaLiga+3&pid=107c3ce5a5d2&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=107c3ce5a5d2527c9f06e4eab87477201791f231&title=M%2B+LaLiga+4&pid=107c3ce5a5d2&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4b528d10eaad747ddf52251206177573ee3e9f74&title=M%2B+LaLiga+4&pid=4b528d10eaad&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&title=M%2B+LaLiga+5&pid=31c19ffb3472&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=571ce113b9d600a145766443d7417eccab2e1846&title=M%2B+LaLiga+5&pid=571ce113b9d6&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 6
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&title=M%2B+LaLiga+6&pid=14b6cd8769cd&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=22178d72e0f255dedd7e56f9474fea879289a6f1&title=M%2B+LaLiga+6&pid=22178d72e0f2&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 7" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 7
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=571ce113b9d600a145766443d7417eccab2e1846&title=M%2B+LaLiga+7&pid=571ce113b9d6&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c9321006921967d6258df6945f1d598a5c0cbf1e&title=M%2B+LaLiga+7&pid=c93210069219&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 8" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 8
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=22178d72e0f255dedd7e56f9474fea879289a6f1&title=M%2B+LaLiga+8&pid=22178d72e0f2&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&title=M%2B+LaLiga+8&pid=31c19ffb3472&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 9" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 9
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4b528d10eaad747ddf52251206177573ee3e9f74&title=M%2B+LaLiga+9&pid=4b528d10eaad&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=14b6cd8769cd485f2cffdca64be9698d9bfeac58&title=M%2B+LaLiga+9&pid=14b6cd8769cd&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=51b363b1c4d42724e05240ad068ad219df8042ec&title=M%2B+LaLiga+2&pid=51b363b1c4d4&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8&title=M%2B+LaLiga+2+2&pid=ad42faa399df&transport_http=yes
-#EXTINF:-1 tvg-id="M+ LaLiga 2 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 2 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b8eb9c9868d487402569bba2d97a8af113d033fe&title=M%2B+LaLiga+2+3&pid=b8eb9c9868d4&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8a86cd6152154a25ad4b76523160552a40313b28&title=DAZN&pid=8a86cd615215&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b0eabe0fdd02fdd165896236765a9b753a2ff516&title=DAZN+2&pid=b0eabe0fdd02&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&title=DAZN+3&pid=50b6d2b5fd59&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&title=DAZN+4&pid=d5b2c6b940cf&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&title=DAZN+5&pid=4dbe63b44fc4&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 6
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0&title=DAZN+6&pid=7e27e46c25d4&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b8eb9c9868d487402569bba2d97a8af113d033fe&title=M%2B+LaLiga+2+2&pid=b8eb9c9868d4&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=36cad67fed5a739757a9db844a551aa845a8d51b&title=DAZN+1&pid=36cad67fed5a&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=6538b79ce0da657d8455d1da6a5f342398899a0e&title=DAZN+1&pid=6538b79ce0da&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&title=DAZN+1+2&pid=50a8a13c4748&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&title=DAZN+1+2&pid=eb6ffec065b2&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&title=DAZN+1+3&pid=eb6ffec065b2&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&title=DAZN+1+3&pid=50a8a13c4748&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 4
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784&title=DAZN+1+4&pid=7ba1f321f4d0&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 5
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b03f9310155cf3b4eafc1dfba763781abc3ff025&title=DAZN+1+5&pid=b03f9310155c&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 Bar" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 Bar
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&title=DAZN+1+Bar&pid=688e785893b5&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=897e73c9d578848f596585314ecb9ae067c0e229&title=DAZN+1+Bar&pid=897e73c9d578&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 Bar 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 1 Bar 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=897e73c9d578848f596585314ecb9ae067c0e229&title=DAZN+1+Bar+2&pid=897e73c9d578&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=688e785893b50acc1d00cb37f15bfc42e72f5ae3&title=DAZN+1+Bar+2&pid=688e785893b5&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8a86cd6152154a25ad4b76523160552a40313b28&title=DAZN&pid=8a86cd615215&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&title=DAZN+2&pid=d08013df6e43&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a&title=DAZN+2&pid=4dbe63b44fc4&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 3
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0&title=DAZN+3&pid=7e27e46c25d4&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 4
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b0eabe0fdd02fdd165896236765a9b753a2ff516&title=DAZN+4&pid=b0eabe0fdd02&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 5
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80&title=DAZN+5&pid=50b6d2b5fd59&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 6
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151&title=DAZN+6&pid=d5b2c6b940cf&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fb2dd566824658eeab27aae19a01c09430f1a97d&title=DAZN+2&pid=fb2dd5668246&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fb2dd566824658eeab27aae19a01c09430f1a97d&title=DAZN+2+2&pid=fb2dd5668246&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce&title=DAZN+2+2&pid=d08013df6e43&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 2 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ae68a0835039fab28fd2314108fabd4fab33b8ab&title=DAZN+2+3&pid=ae68a0835039&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 2 Bar" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 2 Bar
@@ -86,39 +82,37 @@ http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=dae7d1251f06951
 #EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 4
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8&title=DAZN+4&pid=7e90956539f4&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 4 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 4 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f32c0131a2d9444996410801f4e18b04384db98&title=DAZN+4+2&pid=0f32c0131a2d&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5&title=DAZN+4+2&pid=c015d37d1ead&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 4 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN 4 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5&title=DAZN+4+3&pid=c015d37d1ead&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f32c0131a2d9444996410801f4e18b04384db98&title=DAZN+4+3&pid=0f32c0131a2d&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&title=DAZN+F1&pid=38e9ae1ee0c9&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8272d1ed95cdd8945c248ce488fa26bd435fb71f&title=DAZN+F1&pid=8272d1ed95cd&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=1a63d886860e2b770590dcd64a4dd472eabb841d&title=DAZN+F1+2&pid=1a63d886860e&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&title=DAZN+F1+2&pid=bcf9dc38f92e&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&title=DAZN+F1+3&pid=3f5b7e2f883f&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=6422e8bc34282871634c81947be093c04ad1bb29&title=DAZN+F1+3&pid=6422e8bc3428&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ed6188dcbb491efeb2092c1a6199226c27f61727&title=DAZN+F1+4&pid=ed6188dcbb49&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&title=DAZN+F1+4&pid=fd53cfa7055f&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=515efd8115482bda8d92aa6df9a882a5e5797494&title=DAZN+F1+5&pid=515efd811548&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc&title=DAZN+F1+5&pid=82b4f249788f&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 6
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d&title=DAZN+F1+6&pid=c8ad94585fbe&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=515efd8115482bda8d92aa6df9a882a5e5797494&title=DAZN+F1+6&pid=515efd811548&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 7" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 7
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=6422e8bc34282871634c81947be093c04ad1bb29&title=DAZN+F1+7&pid=6422e8bc3428&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=1a63d886860e2b770590dcd64a4dd472eabb841d&title=DAZN+F1+7&pid=1a63d886860e&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 8" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 8
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d65257bb934b73647374224fd62d836815804be2&title=DAZN+F1+8&pid=d65257bb934b&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&title=DAZN+F1+8&pid=c9c18ae7a9da&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 9" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 9
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711&title=DAZN+F1+9&pid=d5cf2dfa4fb4&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&title=DAZN+F1+9&pid=b08e158ea3f5&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 10" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 10
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1&title=DAZN+F1+10&pid=b08e158ea3f5&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711&title=DAZN+F1+10&pid=d5cf2dfa4fb4&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 11" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 11
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&title=DAZN+F1+11&pid=bcf9dc38f92e&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&title=DAZN+F1+11&pid=38e9ae1ee0c9&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 12" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 12
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc&title=DAZN+F1+12&pid=82b4f249788f&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=ed6188dcbb491efeb2092c1a6199226c27f61727&title=DAZN+F1+12&pid=ed6188dcbb49&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 13" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 13
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c9c18ae7a9dafba1caae5beb22060f9c92bba553&title=DAZN+F1+13&pid=c9c18ae7a9da&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d65257bb934b73647374224fd62d836815804be2&title=DAZN+F1+13&pid=d65257bb934b&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 14" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 14
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8272d1ed95cdd8945c248ce488fa26bd435fb71f&title=DAZN+F1+14&pid=8272d1ed95cd&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN F1 15" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN F1 15
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&title=DAZN+F1+15&pid=fd53cfa7055f&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d&title=DAZN+F1+14&pid=c8ad94585fbe&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN Eventos" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN Eventos
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4b048bcfaed7daec454e88f0e29b56756300447d&title=DAZN+Eventos&pid=4b048bcfaed7&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN Eventos 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN Eventos 2
@@ -126,31 +120,33 @@ http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8bdeb6055da0be3
 #EXTINF:-1 tvg-id="DAZN Eventos 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", DAZN Eventos 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=176f0b8565a161f87c81a4a250463e3eaf678fb5&title=DAZN+Eventos+3&pid=176f0b8565a1&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Golf" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Golf
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9be118a64eb603b5eb62be6cf27631d3891b5174&title=M%2B+Golf&pid=9be118a64eb6&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=96e82321c731e41768a806992ee4d3b9b7a0e7d7&title=M%2B+Golf&pid=96e82321c731&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Golf 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Golf 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2&title=M%2B+Golf+2&pid=9ed46050217e&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031&title=M%2B+Golf+2&pid=8546cff89e4e&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Golf 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Golf 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=872608e734992db636eb79426802cd08f4029afb&title=M%2B+Golf+3&pid=872608e73499&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Golf 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Golf 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=96e82321c731e41768a806992ee4d3b9b7a0e7d7&title=M%2B+Golf+4&pid=96e82321c731&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9be118a64eb603b5eb62be6cf27631d3891b5174&title=M%2B+Golf+4&pid=9be118a64eb6&transport_http=yes
+#EXTINF:-1 tvg-id="M+ Golf 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Golf 5
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2&title=M%2B+Golf+5&pid=9ed46050217e&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e572a5178ff72eed7d1d751a18b4b3419699f370&title=M%2B+Liga+de+Campeones&pid=e572a5178ff7&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f7842f8b6c26571e5a974407b61623e56e6a052&title=M%2B+Liga+de+Campeones&pid=0f7842f8b6c2&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=0f7842f8b6c26571e5a974407b61623e56e6a052&title=M%2B+Liga+de+Campeones+2&pid=0f7842f8b6c2&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&title=M%2B+Liga+de+Campeones+2&pid=f3eea003e23f&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=2b51710cee513e8939785fa3e7980f32d4e0415f&title=M%2B+Liga+de+Campeones+3&pid=2b51710cee51&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 4
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&title=M%2B+Liga+de+Campeones+4&pid=f3eea003e23f&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&title=M%2B+Liga+de+Campeones+4&pid=9db029dff6a9&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 5
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&title=M%2B+Liga+de+Campeones+5&pid=5620c0ce3dcb&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b028202ff335911db3118bceac027df3e8ef6c32&title=M%2B+Liga+de+Campeones+5&pid=b028202ff335&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 6
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&title=M%2B+Liga+de+Campeones+6&pid=9db029dff6a9&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e572a5178ff72eed7d1d751a18b4b3419699f370&title=M%2B+Liga+de+Campeones+6&pid=e572a5178ff7&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 7
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=97df5b7824948972d041d8ca2a4d29c90b641bc9&title=M%2B+Liga+de+Campeones+7&pid=97df5b782494&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=2b5129adc57d43790634d796fe3468b9fd061259&title=M%2B+Liga+de+Campeones+7&pid=2b5129adc57d&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 8
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=b028202ff335911db3118bceac027df3e8ef6c32&title=M%2B+Liga+de+Campeones+8&pid=b028202ff335&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=97df5b7824948972d041d8ca2a4d29c90b641bc9&title=M%2B+Liga+de+Campeones+8&pid=97df5b782494&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 9
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=2b5129adc57d43790634d796fe3468b9fd061259&title=M%2B+Liga+de+Campeones+9&pid=2b5129adc57d&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&title=M%2B+Liga+de+Campeones+9&pid=5620c0ce3dcb&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 10
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661&title=M%2B+Liga+de+Campeones+10&pid=6fbab1d8d6bf&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 11
@@ -158,23 +154,23 @@ http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e7d8cae7f693fe4
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38f7b2044e549df2039ff26cefa6f9a60c854d5e&title=M%2B+Liga+de+Campeones+2&pid=38f7b2044e54&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&title=M%2B+Liga+de+Campeones+2+2&pid=74ab4e4ec7e2&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&title=M%2B+Liga+de+Campeones+2+2&pid=338b5de78b0b&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 2 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea&title=M%2B+Liga+de+Campeones+2+3&pid=338b5de78b0b&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=74ab4e4ec7e2da001f473ca40893b7307b8029c5&title=M%2B+Liga+de+Campeones+2+3&pid=74ab4e4ec7e2&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=cfc371890bfb502737a26de5215e50929c52d0f9&title=M%2B+Liga+de+Campeones+3&pid=cfc371890bfb&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 2" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&title=M%2B+Liga+de+Campeones+3+2&pid=90f7941c6bf7&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4416843c96b7f7a1bc55c476091a60fff0922bc7&title=M%2B+Liga+de+Campeones+3+2&pid=4416843c96b7&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 3 3
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4416843c96b7f7a1bc55c476091a60fff0922bc7&title=M%2B+Liga+de+Campeones+3+3&pid=4416843c96b7&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373&title=M%2B+Liga+de+Campeones+3+3&pid=90f7941c6bf7&transport_http=yes
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ Liga de Campeones 4
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=e9f4493d2d851f4636720f639113e05b4a21a74c&title=M%2B+Liga+de+Campeones+4&pid=e9f4493d2d85&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LaLiga 3" tvg-logo="https://droix.net/blogs/wp-content/uploads/2021/09/AceStream-1024x1024-1.png" group-title="Acestream🇪🇸", M+ LaLiga 3
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87&title=M%2B+LaLiga+3&pid=7ad14386deef&transport_http=yes
 #EXTINF:-1 tvg-id="Estrenos por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Estrenos por M+
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131&title=Estrenos+por+M%2B&pid=5d35f906b735&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=192f2ac5b372dfddef694e48edd2d56e308b51e7&title=Estrenos+por+M%2B&pid=192f2ac5b372&transport_http=yes
 #EXTINF:-1 tvg-id="Estrenos por M+ 2" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Estrenos por M+ 2
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=192f2ac5b372dfddef694e48edd2d56e308b51e7&title=Estrenos+por+M%2B+2&pid=192f2ac5b372&transport_http=yes
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5d35f906b735f25164fa2b9b7a4e6ef91dfed131&title=Estrenos+por+M%2B+2&pid=5d35f906b735&transport_http=yes
 #EXTINF:-1 tvg-id="Hits por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Hits por M+
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=50553edb5e8c54d15e0d43161369b3b4cef95065&title=Hits+por+M%2B&pid=50553edb5e8c&transport_http=yes
 #EXTINF:-1 tvg-id="Documentales por M+" tvg-logo="https://i.blogs.es/856e71/plantilla-xataka-94-/375_375.webp" group-title="Movistar Acestream🇪🇸", Documentales por M+
@@ -201,6 +197,8 @@ http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=cf6ffdfa3c51268
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2&title=Romance+por+M%2B&pid=4bfeb0516c44&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN_LaLiga_FHD --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN", DAZN_LaLiga_FHD --> NEW LOOP
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=99171f30c83bf7ab5df28b39607c91334cc60e4b&title=DAZN_LaLiga_FHD+--%3E+NEW+LOOP&pid=99171f30c83b&transport_http=yes
+#EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA -" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN", DAZN 1 FHD --> NEW ERA -
+http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=4141892f5df7d6474bf0279895ce02b7336c9928&title=DAZN+1+FHD+--%3E+NEW+ERA+-&pid=4141892f5df7&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 1 FHD --> NEW ERA VI - 94b7" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN", DAZN 1 FHD --> NEW ERA VI - 94b7
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=36394be1db2e20b5997d987c32fd38c7f0f194b7&title=DAZN+1+FHD+--%3E+NEW+ERA+VI+-+94b7&pid=36394be1db2e&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN 2 FHD --> NEW ERA" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN", DAZN 2 FHD --> NEW ERA
@@ -213,8 +211,6 @@ http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=5b776533534b767
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187&title=DAZN+1+BAR+FHD+--%3E+NEW+ERA&pid=1e7f5efc1913&transport_http=yes
 #EXTINF:-1 tvg-id="Sky Bundesliga" tvg-logo="https://i.ibb.co/f1TTYBf/skysportb.png" group-title="Alemania", Sky Bundesliga
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b&title=Sky+Bundesliga&pid=38d8789a448d&transport_http=yes
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 (FHD)(New Era)" tvg-logo="https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png" group-title="", DAZN LaLiga 2 (FHD)(New Era)
-http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=635b61c1f240449163260cd914d10d886a54fee3&title=DAZN+LaLiga+2+%28FHD%29%28New+Era%29&pid=635b61c1f240&transport_http=yes
 #EXTINF:-1 tvg-id="DAZN F1 FHD --> ELCANO" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD --> ELCANO
 http://172.18.0.10:6878/ace/getstream?type=content_id&content_id=d6281d4e6310269b416180442a470d23a4a99dc9&title=DAZN+F1+FHD+--%3E+ELCANO&pid=d6281d4e6310&transport_http=yes
 #EXTINF:-1 tvg-id="M+ LALIGA --> NEW LOOP" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA --> NEW LOOP
