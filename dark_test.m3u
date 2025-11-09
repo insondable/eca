@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="dark" tvg-logo="https://blog.orange.es/wp-content/uploads/2017/06/dark.png" group-title="Acestream",DARK
-http://172.18.0.12:8080/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
