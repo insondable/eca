@@ -27,22 +27,20 @@ http://172.18.0.12:8080/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a3
 http://172.18.0.12:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES 4 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-00.png" group-title="M.L. Campeones", LIGA DE CAMPEONES 4 (1)
 http://172.18.0.12:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1 tvg-id="Campeones 5 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-00.png" group-title="M.L. Campeones", Campeones 5 (1)
-http://172.18.0.12:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 tvg-id="DAZN F1 1080 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 1080 (1)
 http://172.18.0.12:8080/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-id="DAZN F1 1080 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 1080 (1)
 http://172.18.0.12:8080/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
+#EXTINF:-1 tvg-id="DAZN F1 720 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 720 (1)
+http://172.18.0.12:8080/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
 #EXTINF:-1 tvg-id="Campeones 3 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-00.png" group-title="M.L. Campeones", Campeones 3 (1)
 http://172.18.0.12:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES 3 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-00.png" group-title="M.L. Campeones", LIGA DE CAMPEONES 3 FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
-#EXTINF:-1 tvg-id="DAZN F1 720 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 720 (1)
-http://172.18.0.12:8080/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
+#EXTINF:-1 tvg-id="Campeones 5 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-liga-de-campeones-00.png" group-title="M.L. Campeones", Campeones 5 (1)
+http://172.18.0.12:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29
-#EXTINF:-1 tvg-id="DAZN F1 FHD- (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD- (1)
-http://172.18.0.12:8080/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD (1)
@@ -79,16 +77,24 @@ http://172.18.0.12:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b
 http://172.18.0.12:8080/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-id="DAZN 4 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-0.png" group-title="DAZN", DAZN 4 FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
+#EXTINF:-1 tvg-id="DAZN F1 FHD- (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-dazn-formula-1.png" group-title="DAZN F1", DAZN F1 FHD- (1)
+http://172.18.0.12:8080/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494
 #EXTINF:-1 tvg-id="MOVISTAR ACCION FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ACCION FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
+#EXTINF:-1 tvg-id="MOVISTAR CINE ESPANOL FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR CINE ESPANOL FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
 #EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR CLASICOS FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=cf6ffdfa3c51268c0bd216da6b275fb866160c0c
+#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR CLASICOS FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 #EXTINF:-1 tvg-id="MOVISTAR COMEDIA FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR COMEDIA FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5df6
+#EXTINF:-1 tvg-id="MOVISTAR COMIC FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR COMIC FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
+#EXTINF:-1 tvg-id="MOVISTAR DOCUMENTALES FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR DOCUMENTALES FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
 #EXTINF:-1 tvg-id="MOVISTAR ELLAS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ELLAS FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-id="MOVISTAR ELLAS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ELLAS FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
 #EXTINF:-1 tvg-id="MOVISTAR ESTRENOS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ESTRENOS FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=192f2ac5b372dfddef694e48edd2d56e308b51e7
 #EXTINF:-1 tvg-id="MOVISTAR ESTRENOS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ESTRENOS FHD (1)
@@ -107,28 +113,28 @@ http://172.18.0.12:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029af
 http://172.18.0.12:8080/ace/getstream?id=7716c9fd5bd4413715e4e26f97efb91802f6ee80
 #EXTINF:-1 tvg-id="MOVISTAR ORIGINALES FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ORIGINALES FHD (1)
 http://172.18.0.12:8080/ace/getstream?id=096b817fcc836535f608facb15fca6408fae3162
-#EXTINF:-1 tvg-id="MOVISTAR CLASICOS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR CLASICOS FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
-#EXTINF:-1 tvg-id="MOVISTAR COMIC FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR COMIC FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
-#EXTINF:-1 tvg-id="MOVISTAR DOCUMENTALES FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR DOCUMENTALES FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=b3fc9b5647c5933b101c0b6b64322590c68587b9
-#EXTINF:-1 tvg-id="MOVISTAR DRAMA FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR DRAMA FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
 #EXTINF:-1 tvg-id="M+ LALIGA (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA (1)
 http://172.18.0.12:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-id="M+ LALIGA 2 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA 2 FHD (1)
-http://172.18.0.12:8080/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
-#EXTINF:-1 tvg-id="M. LaLiga 3 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga 3 (1)
-http://172.18.0.12:8080/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
-#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga 1080 MultiAudio (1)
-http://172.18.0.12:8080/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1 tvg-id="M. LaLiga (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga (1)
-http://172.18.0.12:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="MOVISTAR DRAMA FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR DRAMA FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=a6de6a4977d7801bbddc9c7739d822f4beb358ae
+#EXTINF:-1 tvg-id="MOVISTAR ELLAS FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-plus-1475.png" group-title="Movistar Plus+", MOVISTAR ELLAS FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc285
 #EXTINF:-1 tvg-id="M+ LALIGA 2 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA 2 (1)
 http://172.18.0.12:8080/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-id="DAZN 2 DE (1)" tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania", DAZN 2 DE (1)
+http://172.18.0.12:8080/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga 1080 MultiAudio (1)
+http://172.18.0.12:8080/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+#EXTINF:-1 tvg-id="M. LaLiga 1080 MultiAudio (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga 1080 MultiAudio (1)
+http://172.18.0.12:8080/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+#EXTINF:-1 tvg-id="M. LaLiga (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga (1)
+http://172.18.0.12:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
+#EXTINF:-1 tvg-id="M+ LALIGA 2 FHD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA 2 FHD (1)
+http://172.18.0.12:8080/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-id="M+ LALIGA 3 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M+ LALIGA 3 (1)
 http://172.18.0.12:8080/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-id="M. LaLiga 3 (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-movistar-laliga-0.png" group-title="M. La Liga", M. LaLiga 3 (1)
+http://172.18.0.12:8080/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-id="DAZN 1 HD (1)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 HD (1)
 http://172.18.0.12:8080/ace/getstream?id=5b776533534b767a84dfda263825ad10f30a8ec7
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (1)
@@ -137,7 +143,5 @@ http://172.18.0.12:8080/ace/getstream?id=8272d1ed95cdd8945c248ce488fa26bd435fb71
 http://172.18.0.12:8080/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-id="DAZN 1 DE (1)" tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania", DAZN 1 DE (1)
 http://172.18.0.12:8080/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-id="DAZN 2 DE (1)" tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania", DAZN 2 DE (1)
-http://172.18.0.12:8080/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-id="DARK HD (1)" tvg-logo="https://raw.githubusercontent.com/jmvilarinho/ace/main/images/tv-station-aceplayer.png" group-title="Outros", DARK HD (1)
 http://172.18.0.12:8080/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
