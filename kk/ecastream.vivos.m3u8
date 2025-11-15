@@ -36,9 +36,9 @@ http://172.18.0.13:6878/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b
 #EXTINF:-1 tvg-id="DAZN LA LIGA 1 FHD (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884&pid=56107
 #EXTINF:-1 tvg-id="DAZN LA LIGA 1 FHD (1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=28782
-#EXTINF:-1 tvg-id="DAZN LA LIGA 1 FHD (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05&pid=34660
+#EXTINF:-1 tvg-id="DAZN LA LIGA 1 FHD (2)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618&pid=28782
 #EXTINF:-1 tvg-id="DAZN LA LIGA 1 (1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 (1)
 http://172.18.0.13:6878/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b&pid=47175
 #EXTINF:-1 tvg-id="DAZN LA LIGA 1 (1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" group-title="LA LIGA", DAZN LA LIGA 1 (1)
@@ -47,6 +47,8 @@ http://172.18.0.13:6878/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496
 http://172.18.0.13:6878/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef59c3&pid=15142
 #EXTINF:-1 tvg-id="DAZN LA LIGA 2 FHD (1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" group-title="LA LIGA", DAZN LA LIGA 2 FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8&pid=21804
+#EXTINF:-1 tvg-id="M+ LALIGA (1)" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA", M+ LALIGA (1)
+http://172.18.0.13:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947&pid=48485
 #EXTINF:-1 tvg-id="M+ LALIGA (1)" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA", M+ LALIGA (1)
 http://172.18.0.13:6878/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38&pid=53692
 #EXTINF:-1 tvg-id="M+ LALIGA 2 FHD (1)" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA", M+ LALIGA 2 FHD (1)
@@ -64,17 +66,17 @@ http://172.18.0.13:6878/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a&pid=32858
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (2)
-http://172.18.0.13:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=4375
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (3)
 http://172.18.0.13:6878/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0&pid=55814
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (3)
+http://172.18.0.13:6878/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc&pid=4375
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=37874
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=0f7842f8b6c26571e5a974407b61623e56e6a052&pid=21104
-#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=62295
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=f3eea003e23f94dc2d527306de9dd386e3ebf4ba&pid=37874
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e&pid=51087
+#EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (2)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9&pid=62295
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES FHD (3)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD (3)
 http://172.18.0.13:6878/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f&pid=40029
 #EXTINF:-1 tvg-id="M+ LALIGA 4 FHD (1)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" group-title="LA LIGA", M+ LALIGA 4 FHD (1)
@@ -102,13 +104,13 @@ http://172.18.0.13:6878/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b66
 #EXTINF:-1 tvg-id="LIGA DE CAMPEONES 5 FHD (1)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d&pid=5871
 #EXTINF:-1 tvg-id="DAZN 1 FHD (1)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=61924
-#EXTINF:-1 tvg-id="DAZN 1 FHD (2)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e&pid=7381
-#EXTINF:-1 tvg-id="DAZN 1 FHD (1)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=17232
 #EXTINF:-1 tvg-id="DAZN 1 FHD (2)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9&pid=61924
+#EXTINF:-1 tvg-id="DAZN 1 FHD (1)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=36394be1db2e20b5997d987c32fd38c7f0f194b7&pid=33306
+#EXTINF:-1 tvg-id="DAZN 1 FHD (2)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=b03f9310155cf3b4eafc1dfba763781abc3ff025&pid=17232
 #EXTINF:-1 tvg-id="DAZN 1 (1)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 (1)
 http://172.18.0.13:6878/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276&pid=59952
 #EXTINF:-1 tvg-id="DAZN 1 (2)" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN", DAZN 1 (2)
@@ -146,19 +148,19 @@ http://172.18.0.13:6878/ace/getstream?id=c9c18ae7a9dafba1caae5beb22060f9c92bba55
 #EXTINF:-1 tvg-id="DAZN F1 FHD (2)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=6422e8bc34282871634c81947be093c04ad1bb29&pid=19679
 #EXTINF:-1 tvg-id="DAZN F1 FHD (3)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (3)
-http://172.18.0.13:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711&pid=970
-#EXTINF:-1 tvg-id="DAZN F1 FHD (4)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (4)
 http://172.18.0.13:6878/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc&pid=29950
-#EXTINF:-1 tvg-id="DAZN F1 FHD (5)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (5)
+#EXTINF:-1 tvg-id="DAZN F1 FHD (4)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (4)
 http://172.18.0.13:6878/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797494&pid=20192
+#EXTINF:-1 tvg-id="DAZN F1 FHD (5)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (5)
+http://172.18.0.13:6878/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711&pid=970
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (1)
 http://172.18.0.13:6878/ace/getstream?id=38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7&pid=59143
 #EXTINF:-1 tvg-id="DAZN F1 FHD (2)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=3f5b7e2f883fe4b4b973e198d147a513d5c7c32a&pid=48522
 #EXTINF:-1 tvg-id="DAZN F1 FHD (1)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (1)
-http://172.18.0.13:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&pid=52475
-#EXTINF:-1 tvg-id="DAZN F1 FHD (2)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (2)
 http://172.18.0.13:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69&pid=39218
+#EXTINF:-1 tvg-id="DAZN F1 FHD (2)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 FHD (2)
+http://172.18.0.13:6878/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55&pid=52475
 #EXTINF:-1 tvg-id="DAZN F1 (1)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 (1)
 http://172.18.0.13:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076&pid=8957
 #EXTINF:-1 tvg-id="DAZN F1 HD (1)" tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" group-title="FORMULA 1", DAZN F1 HD (1)
